@@ -20,13 +20,12 @@ This repository showcases my contributions to the Hacknight 6.0 open-source hack
 
 **Hacknight 6.0 Contribution Details**
 
-* **Awarded Bounty Points:** Recognized with 80 bounty points for your valuable contributions.
+* **Awarded Bounty Points:** Recognized with 80 bounty points for my contributions.
 * **Repository Link:** Find the complete codebase on GitHub at [https://github.com/acmpesuecc/SystemVerilog-Playground](https://github.com/acmpesuecc/SystemVerilog-Playground).
 
 **Acknowledgement**
 
-This project builds upon the foundation laid by Abhiram ([https://github.com/alfadelta10010](https://github.com/alfadelta10010)) through the creation of the `SystemVerilog-Playground` repository. Your contribution fosters open-source collaboration and innovation in SystemVerilog design and verification.
-
+This project builds upon the foundation laid by Abhiram ([https://github.com/alfadelta10010](https://github.com/alfadelta10010)) through the creation of the `SystemVerilog-Playground` repository.
 **Get Involved**
 
 Feel free to explore the code, experiment with the designs, and contribute your own ideas to further enhance this repository. The SystemVerilog community welcomes your participation!
